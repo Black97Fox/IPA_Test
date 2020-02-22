@@ -1,0 +1,11 @@
+E:\IPA Projects\Weather_Test\Weather_Test\bin\Debug\netcoreapp3.1\Weather_Test.exe
+E:\IPA Projects\Weather_Test\Weather_Test\bin\Debug\netcoreapp3.1\Weather_Test.deps.json
+E:\IPA Projects\Weather_Test\Weather_Test\bin\Debug\netcoreapp3.1\Weather_Test.runtimeconfig.json
+E:\IPA Projects\Weather_Test\Weather_Test\bin\Debug\netcoreapp3.1\Weather_Test.runtimeconfig.dev.json
+E:\IPA Projects\Weather_Test\Weather_Test\bin\Debug\netcoreapp3.1\Weather_Test.dll
+E:\IPA Projects\Weather_Test\Weather_Test\bin\Debug\netcoreapp3.1\Weather_Test.pdb
+E:\IPA Projects\Weather_Test\Weather_Test\obj\Debug\netcoreapp3.1\Weather_Test.csprojAssemblyReference.cache
+E:\IPA Projects\Weather_Test\Weather_Test\obj\Debug\netcoreapp3.1\Weather_Test.AssemblyInfoInputs.cache
+E:\IPA Projects\Weather_Test\Weather_Test\obj\Debug\netcoreapp3.1\Weather_Test.AssemblyInfo.cs
+E:\IPA Projects\Weather_Test\Weather_Test\obj\Debug\netcoreapp3.1\Weather_Test.dll
+E:\IPA Projects\Weather_Test\Weather_Test\obj\Debug\netcoreapp3.1\Weather_Test.pdb

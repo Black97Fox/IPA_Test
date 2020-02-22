@@ -1,0 +1,10 @@
+E:\IPA Projects\Weather_Test\Calculator_Test\bin\Debug\netcoreapp3.1\Calculator_Test.exe
+E:\IPA Projects\Weather_Test\Calculator_Test\bin\Debug\netcoreapp3.1\Calculator_Test.deps.json
+E:\IPA Projects\Weather_Test\Calculator_Test\bin\Debug\netcoreapp3.1\Calculator_Test.runtimeconfig.json
+E:\IPA Projects\Weather_Test\Calculator_Test\bin\Debug\netcoreapp3.1\Calculator_Test.runtimeconfig.dev.json
+E:\IPA Projects\Weather_Test\Calculator_Test\bin\Debug\netcoreapp3.1\Calculator_Test.dll
+E:\IPA Projects\Weather_Test\Calculator_Test\bin\Debug\netcoreapp3.1\Calculator_Test.pdb
+E:\IPA Projects\Weather_Test\Calculator_Test\obj\Debug\netcoreapp3.1\Calculator_Test.AssemblyInfoInputs.cache
+E:\IPA Projects\Weather_Test\Calculator_Test\obj\Debug\netcoreapp3.1\Calculator_Test.AssemblyInfo.cs
+E:\IPA Projects\Weather_Test\Calculator_Test\obj\Debug\netcoreapp3.1\Calculator_Test.dll
+E:\IPA Projects\Weather_Test\Calculator_Test\obj\Debug\netcoreapp3.1\Calculator_Test.pdb

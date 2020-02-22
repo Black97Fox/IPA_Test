@@ -1,0 +1,11 @@
+E:\IPA Projects\Weather_Test\Degree_Test\obj\Debug\netcoreapp3.1\Degree_Test.csprojAssemblyReference.cache
+E:\IPA Projects\Weather_Test\Degree_Test\obj\Debug\netcoreapp3.1\Degree_Test.AssemblyInfoInputs.cache
+E:\IPA Projects\Weather_Test\Degree_Test\obj\Debug\netcoreapp3.1\Degree_Test.AssemblyInfo.cs
+E:\IPA Projects\Weather_Test\Degree_Test\bin\Debug\netcoreapp3.1\Degree_Test.exe
+E:\IPA Projects\Weather_Test\Degree_Test\bin\Debug\netcoreapp3.1\Degree_Test.deps.json
+E:\IPA Projects\Weather_Test\Degree_Test\bin\Debug\netcoreapp3.1\Degree_Test.runtimeconfig.json
+E:\IPA Projects\Weather_Test\Degree_Test\bin\Debug\netcoreapp3.1\Degree_Test.runtimeconfig.dev.json
+E:\IPA Projects\Weather_Test\Degree_Test\bin\Debug\netcoreapp3.1\Degree_Test.dll
+E:\IPA Projects\Weather_Test\Degree_Test\bin\Debug\netcoreapp3.1\Degree_Test.pdb
+E:\IPA Projects\Weather_Test\Degree_Test\obj\Debug\netcoreapp3.1\Degree_Test.dll
+E:\IPA Projects\Weather_Test\Degree_Test\obj\Debug\netcoreapp3.1\Degree_Test.pdb
