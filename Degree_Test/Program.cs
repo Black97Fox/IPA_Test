@@ -7,23 +7,23 @@ namespace Degree_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Your Degree>>");
-            const char e = 'e', v = 'v', g = 'g', a = 'a', f = 'f';
+            const char e,v,g,a,f;
             char degree = Convert.ToChar(Console.ReadLine());
             switch (degree)
             {
-                case e:
+                case 'e':
                     Console.WriteLine("Excellent");
                     break;
-                case v:
+                case 'v':
                     Console.WriteLine("Very Good");
                     break;
-                case g:
+                case 'g':
                     Console.WriteLine("Good");
                     break;
-                case a:
+                case 'a':
                     Console.WriteLine("Average");
                     break;
-                case f:
+                case 'f':
                     Console.WriteLine("Fail");
                     break;
                 default:
