@@ -1,0 +1,6 @@
+\\172.16.19.238\profiles\ST40011995\UserData\Desktop\C# Projects\SumFiveInts\SumFiveInts\bin\Debug\SumFiveInts.exe.config
+\\172.16.19.238\profiles\ST40011995\UserData\Desktop\C# Projects\SumFiveInts\SumFiveInts\bin\Debug\SumFiveInts.exe
+\\172.16.19.238\profiles\ST40011995\UserData\Desktop\C# Projects\SumFiveInts\SumFiveInts\bin\Debug\SumFiveInts.pdb
+\\172.16.19.238\profiles\ST40011995\UserData\Desktop\C# Projects\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.csprojResolveAssemblyReference.cache
+\\172.16.19.238\profiles\ST40011995\UserData\Desktop\C# Projects\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.exe
+\\172.16.19.238\profiles\ST40011995\UserData\Desktop\C# Projects\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.pdb
